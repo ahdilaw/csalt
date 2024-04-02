@@ -1,0 +1,43 @@
+{
+    "total_samples": 68,
+    "diarized_segments": 89,
+    "total_speakers": 7,
+    "speakers": [
+        {
+            "speaker": "speaker_SPEAKER_04",
+            "gender": "M",
+            "age-group": "A"
+        },
+        {
+            "speaker": "speaker_SPEAKER_01",
+            "gender": "M",
+            "age-group": "A"
+        },
+        {
+            "speaker": "speaker_SPEAKER_00",
+            "gender": "M",
+            "age-group": "A"
+        },
+        {
+            "speaker": "speaker_SPEAKER_02",
+            "gender": "M",
+            "age-group": "A"
+        },
+        {
+            "speaker": "speaker_SPEAKER_05",
+            "gender": "M",
+            "age-group": "R"
+        },
+        {
+            "speaker": "speaker_SPEAKER_03",
+            "gender": "M",
+            "age-group": "A"
+        },
+        {
+            "speaker": "speaker_SPEAKER_06",
+            "gender": "M",
+            "age-group": "R"
+        }
+    ],
+    "total_duration": 371.29
+}
