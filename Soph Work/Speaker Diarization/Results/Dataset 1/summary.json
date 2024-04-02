@@ -1,0 +1,17 @@
+{
+    "total_samples": 708,
+    "total_speakers": 1,
+    "speakers": [
+        {
+            "speaker": "1",
+            "gender": "M"
+        }
+    ],
+    "noise": {
+        "clear_noise": 99.72,
+        "slight_noise": 0.28,
+        "moderate_noise": 0.0,
+        "heavy_noise": 0.0
+    },
+    "total_duration": 4228.06
+}
